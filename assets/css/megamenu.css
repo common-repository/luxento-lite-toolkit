@@ -1,0 +1,50 @@
+#kopa_options_wrap .kopa_section_megamenu_generator select{
+	height: 150px;
+}
+
+#kopa_options_wrap .kopa_section_megamenu_generator .kopa_heading{
+	padding-top: 20px;
+}
+#kopa_options_wrap .kopa_controls .kopa_shortcode_generate_button{
+	 position: absolute;
+  background: #499bea;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #499bea 0%, #207ce5 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #499bea), color-stop(100%, #207ce5));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #499bea 0%, #207ce5 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #499bea 0%, #207ce5 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #499bea 0%, #207ce5 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #499bea 0%, #207ce5 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#499bea', endColorstr='#207ce5',GradientType=0 );
+  /* IE6-9 */
+  border: none;
+  border-radius: 0;
+  padding: 0 20px;
+  line-height: 40px;
+  height: 40px;
+  display: inline-block;
+  font-size: 14px;
+  color: #fff;
+  box-shadow: none;
+  cursor: pointer;
+  -moz-transition: all .3s;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  height: 28px;
+  line-height: 28px;
+  margin-top: -32px;
+  right: 5px;
+}
+#kopa_options_wrap .kopa_shortcode_generate_button.kopa_button_inactive {
+  cursor: default;
+  background: #ccc;
+}
+#kopa_options_wrap .kopa_shortcode_generate_button.kopa_button_inactive:hover {
+  background: #ccc;
+}

@@ -1,0 +1,628 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Luxento Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Mar 29 2016 10:23:32 GMT+0700 (ICT)\n"
+"POT-Revision-Date: Tue Mar 29 2016 10:23:35 GMT+0700 (ICT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Luxento Toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A specific plugin use in Luxento Theme, included some custom widgets, "
+"shortcodes"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kopa Theme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kopatheme.com"
+msgstr ""
+
+#: ../luxento-toolkit.php:94
+msgid "Advance options"
+msgstr ""
+
+#: ../luxento-toolkit.php:101
+msgid "Is hide breaking news"
+msgstr ""
+
+#: ../luxento-toolkit.php:107
+msgid "Is hide breadcrumb"
+msgstr ""
+
+#: ../luxento-toolkit.php:113
+msgid "Is hide page title"
+msgstr ""
+
+#: ../luxento-toolkit.php:128
+msgid "Gallery:"
+msgstr ""
+
+#: ../luxento-toolkit.php:131
+msgid "This option only apply for post-format \"Gallery\"."
+msgstr ""
+
+#: ../luxento-toolkit.php:134
+msgid "Custom:"
+msgstr ""
+
+#: ../luxento-toolkit.php:138
+msgid "Enter custom content as shortcode or custom HTML, ..."
+msgstr ""
+
+#: ../luxento-toolkit.php:144
+msgid "Featured content"
+msgstr ""
+
+#: ../luxento-toolkit.php:156
+msgid "Featured Image"
+msgstr ""
+
+#: ../luxento-toolkit.php:166
+msgid "Use full image?"
+msgstr ""
+
+#: ../luxento-toolkit.php:167
+msgid ""
+"Uncheck to use custom size images for single post. Only availavle on "
+"standard post format"
+msgstr ""
+
+#: ../luxento-toolkit.php:186
+msgid "Share by facebook"
+msgstr ""
+
+#: ../luxento-toolkit.php:187
+msgid "Share by twitter"
+msgstr ""
+
+#: ../luxento-toolkit.php:188
+msgid "Share by google plus"
+msgstr ""
+
+#: ../luxento-toolkit.php:189
+msgid "Pin it"
+msgstr ""
+
+#: ../inc/shortcode-util.php:41
+msgid "Luxento Elements"
+msgstr ""
+
+#: ../inc/shortcodes/accordion.php:6
+msgid "Accordion"
+msgstr ""
+
+#: ../inc/shortcodes/alert.php:6
+msgid "Alert success"
+msgstr ""
+
+#: ../inc/shortcodes/alert.php:11
+msgid "Alert info"
+msgstr ""
+
+#: ../inc/shortcodes/alert.php:16
+msgid "Alert warning"
+msgstr ""
+
+#: ../inc/shortcodes/alert.php:21
+msgid "Alert danger"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote.php:6
+msgid "Blockquote 1"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote.php:10
+msgid "Blockquote 2"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote.php:14
+msgid "Blockquote 3"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote.php:18
+msgid "Blockquote 4"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:6
+msgid "Big button style 1"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:10
+msgid "Big button style 2"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:14
+msgid "Big button style 3"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:18
+msgid "Big button style 4"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:22
+msgid "Medium button style 1"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:26
+msgid "Medium button style 2"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:30
+msgid "Medium button style 3"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:34
+msgid "Medium button style 4"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:38
+msgid "Small button style 1"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:42
+msgid "Small button style 2"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:46
+msgid "Small button style 3"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:50
+msgid "Small button style 4"
+msgstr ""
+
+#: ../inc/shortcodes/caption.php:6
+msgid "Captions"
+msgstr ""
+
+#: ../inc/shortcodes/dropcaps.php:6
+msgid "Dropcaps 1"
+msgstr ""
+
+#: ../inc/shortcodes/dropcaps.php:10
+msgid "Dropcaps 2"
+msgstr ""
+
+#: ../inc/shortcodes/dropcaps.php:14
+msgid "Dropcaps 3"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:6
+msgid "Grid 100%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:10
+#, php-format
+msgid "Grid 50% x2"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:14
+#, php-format
+msgid "Grid 33% x3"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:18
+msgid "Grid 33% - 66%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:22
+msgid "Grid 25% - 50% - 25%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:26
+#, php-format
+msgid "Grid 25% x4"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:30
+msgid "Grid 25% - 75%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:34
+msgid "Grid 16.6% - 66.6% - 16.6%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:38
+msgid "Grid 16.6% - 16.6% - 16.6% - 50%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:42
+#, php-format
+msgid "Grid 16.6% x6"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:46
+msgid "Grid 66% - 33%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:50
+msgid "Grid 83.3% - 16.6%"
+msgstr ""
+
+#: ../inc/shortcodes/list.php:6
+msgid "List"
+msgstr ""
+
+#: ../inc/shortcodes/tab.php:6
+msgid "Tab 1"
+msgstr ""
+
+#: ../inc/shortcodes/tab.php:10
+msgid "Tab 2"
+msgstr ""
+
+#: ../inc/shortcodes/toggle.php:6
+msgid "Toggle"
+msgstr ""
+
+#: ../inc/shortcodes/toggle.php:33
+msgid "X"
+msgstr ""
+
+#: ../inc/widgets/1big-1small.php:14
+msgid "__Posts List 3 Columns"
+msgstr ""
+
+#: ../inc/widgets/1big-1small.php:15
+msgid "Show post list 3 columns, last column only show title."
+msgstr ""
+
+#: ../inc/widgets/1big-1small.php:20
+msgid "Excerpt length:"
+msgstr ""
+
+#: ../inc/widgets/1big-1small.php:27
+msgid "Style Front page"
+msgstr ""
+
+#: ../inc/widgets/1big-1small.php:28
+msgid "Style Blog page"
+msgstr ""
+
+#: ../inc/widgets/1big-1small.php:90 ../inc/widgets/1big-1small.php:130 ..
+#: /inc/widgets/1big-1small.php:161 ../inc/widgets/1has-thumb.php:54 ..
+#: /inc/widgets/1has-thumb.php:71
+msgid "by "
+msgstr ""
+
+#: ../inc/widgets/1has-thumb.php:14
+msgid "__Posts List - First Thumb."
+msgstr ""
+
+#: ../inc/widgets/1has-thumb.php:15
+msgid "Show posts list, first post has thumb."
+msgstr ""
+
+#: ../inc/widgets/adver.php:14
+msgid "__Image"
+msgstr ""
+
+#: ../inc/widgets/adver.php:15
+msgid "Show image ads."
+msgstr ""
+
+#: ../inc/widgets/adver.php:20 ../inc/widgets/flickr.php:20 ../inc/widgets/list-
+#: categories.php:20 ../inc/widgets/most-comment.php:27
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/adver.php:26
+msgid "Upload your image:"
+msgstr ""
+
+#: ../inc/widgets/adver.php:31 ../inc/widgets/adver.php:40
+msgid "URL:"
+msgstr ""
+
+#: ../inc/widgets/adver.php:37
+msgid "Open in a new tab"
+msgstr ""
+
+#: ../inc/widgets/adver.php:38
+msgid "Open in current tab"
+msgstr ""
+
+#: ../inc/widgets/allhas-thumb.php:14
+msgid "__Posts List - All Thumb."
+msgstr ""
+
+#: ../inc/widgets/allhas-thumb.php:15
+msgid "Show posts list, all posts has thumb."
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:18
+msgid "Display your contact form and your contact information."
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:20
+msgid "__Contact Form"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:25 ../inc/widgets/contact-us.php:23 ..
+#: /inc/widgets/follow-us.php:24 ../inc/widgets/google-map.php:28 ..
+#: /inc/widgets/instagram.php:24 ../inc/widgets/last-tweets.php:38
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:30
+msgid "Additionnal info"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:35
+msgid "Address"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:40 ../inc/widgets/contact-form.php:78
+msgid "Email"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:45
+msgid "Phone"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:50
+msgid "Fax"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:77
+msgid "Name"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:79
+msgid "Message"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:80
+msgid "Send"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:95
+msgid "Additionnal info:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:102
+msgid "Address:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:110
+msgid "Quick Contact:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:114
+msgid "Email:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:121
+msgid "Phone:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:128
+msgid "Fax:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:161
+msgid ""
+"<p>Aloha!</p><p>You have a new message from  [contact_name] "
+"([contact_email])</p><div>[contact_message]</div><p>Thanks!</p>"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:168
+msgid "Contact Form:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:173
+msgid "Oops! errors occured. Please try again.."
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:176
+msgid "Success! Your email address has been sent"
+msgstr ""
+
+#: ../inc/widgets/contact-us.php:17
+msgid "Display contact us in footer"
+msgstr ""
+
+#: ../inc/widgets/contact-us.php:19
+msgid "__Contact Us"
+msgstr ""
+
+#: ../inc/widgets/contact-us.php:28
+msgid "Office name"
+msgstr ""
+
+#: ../inc/widgets/contact-us.php:33
+msgid "Office link"
+msgstr ""
+
+#: ../inc/widgets/contact-us.php:38
+msgid "Office address"
+msgstr ""
+
+#: ../inc/widgets/contact-us.php:43
+msgid "Office phone"
+msgstr ""
+
+#: ../inc/widgets/contact-us.php:48
+msgid "Office email"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:14
+msgid "__Flickr"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:15
+msgid "Show photo Flickr."
+msgstr ""
+
+#: ../inc/widgets/flickr.php:25
+msgid "User ID:"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:30
+msgid "Limit:"
+msgstr ""
+
+#: ../inc/widgets/follow-us.php:18
+msgid "Display follow us in footer"
+msgstr ""
+
+#: ../inc/widgets/follow-us.php:20
+msgid "__Follow Us"
+msgstr ""
+
+#: ../inc/widgets/follow-us.php:31 ../inc/widgets/most-comment.php:38
+msgid "Style 1"
+msgstr ""
+
+#: ../inc/widgets/follow-us.php:32 ../inc/widgets/most-comment.php:39
+msgid "Style 2"
+msgstr ""
+
+#: ../inc/widgets/google-map.php:21
+msgid "Display your google map by Latitude & Longtitude"
+msgstr ""
+
+#: ../inc/widgets/google-map.php:23
+msgid "__Google Map"
+msgstr ""
+
+#: ../inc/widgets/google-map.php:33
+msgid "Latitude"
+msgstr ""
+
+#: ../inc/widgets/google-map.php:38
+msgid "Longtitude"
+msgstr ""
+
+#: ../inc/widgets/google-map.php:43
+msgid "Location"
+msgstr ""
+
+#: ../inc/widgets/google-map.php:48
+msgid "Height"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:17
+msgid "Display images from instagram."
+msgstr ""
+
+#: ../inc/widgets/instagram.php:19
+msgid "__Instagram"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:23
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:29
+msgid "Access id"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:35
+msgid "Access token :"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:36
+msgid "Please read document for more detail."
+msgstr ""
+
+#: ../inc/widgets/instagram.php:41
+msgid "Number of photos :"
+msgstr ""
+
+#: ../inc/widgets/introduction.php:19
+msgid "Display introduction in footer"
+msgstr ""
+
+#: ../inc/widgets/introduction.php:21
+msgid "__Introduction"
+msgstr ""
+
+#: ../inc/widgets/introduction.php:26
+msgid "Upload your image"
+msgstr ""
+
+#: ../inc/widgets/introduction.php:31
+msgid "Detail"
+msgstr ""
+
+#: ../inc/widgets/last-tweets.php:24
+msgid "Display information of last tweets"
+msgstr ""
+
+#: ../inc/widgets/last-tweets.php:28
+msgid "__Twitter"
+msgstr ""
+
+#: ../inc/widgets/last-tweets.php:48
+msgid "Twitter ID"
+msgstr ""
+
+#: ../inc/widgets/last-tweets.php:58
+msgid "Twitter API Key"
+msgstr ""
+
+#: ../inc/widgets/last-tweets.php:68
+msgid "Twitter API Secret"
+msgstr ""
+
+#: ../inc/widgets/last-tweets.php:78
+msgid "Twitter Access Token"
+msgstr ""
+
+#: ../inc/widgets/last-tweets.php:88
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: ../inc/widgets/last-tweets.php:98
+msgid "Number of tweet"
+msgstr ""
+
+#: ../inc/widgets/list-categories.php:14
+msgid "__List Categories"
+msgstr ""
+
+#: ../inc/widgets/list-categories.php:15
+msgid "Show list categories."
+msgstr ""
+
+#: ../inc/widgets/list-categories.php:25
+msgid "Show post counts"
+msgstr ""
+
+#: ../inc/widgets/most-comment.php:19
+msgid "Display newest comments"
+msgstr ""
+
+#: ../inc/widgets/most-comment.php:21
+msgid "__Comments"
+msgstr ""
+
+#: ../inc/widgets/most-comment.php:32
+msgid "Number of comments:"
+msgstr ""
